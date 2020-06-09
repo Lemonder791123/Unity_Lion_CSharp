@@ -1,4 +1,4 @@
-﻿using Packages.Rider.Editor.UnitTesting;
+﻿
 using UnityEngine;
 
 public class Class5_ifSwitchLoop : MonoBehaviour
